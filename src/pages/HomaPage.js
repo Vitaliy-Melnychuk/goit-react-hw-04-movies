@@ -7,3 +7,10 @@ class HomePage extends Component {
 }
 
 export default HomePage;
+
+// [build]
+//     publish = "build"
+// [[redirects]]
+//     from = "/*"
+//     to = "/index.html"
+//     status = 200
