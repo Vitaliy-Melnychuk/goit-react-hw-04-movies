@@ -1,0 +1,11 @@
+.list {
+  margin-top: 10px;
+  margin-left: 20px;
+}
+.link {
+  color: darkgray;
+}
+
+.activeLink {
+  color: rgb(211, 119, 119);
+}

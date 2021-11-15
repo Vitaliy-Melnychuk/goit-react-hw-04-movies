@@ -1,0 +1,21 @@
+.imgWrapper {
+  display: flex;
+  padding-bottom: 10px;
+}
+
+.imgBox {
+  height: 350px;
+  object-fit: cover;
+}
+
+.description {
+  padding: 20px;
+}
+
+.margin {
+  margin-bottom: 21px;
+}
+
+.img {
+  width: 250px;
+}
