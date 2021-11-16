@@ -6,7 +6,6 @@ import s from './Cast.module.css';
 export function  Cast() {
     const [actors, setActors] = useState(null);
     const {movieId} = useParams();
-    actors && console.log(actors);
 
     useEffect( () => {
         FetchCastMovies(movieId)
